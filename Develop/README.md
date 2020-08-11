@@ -1,16 +1,16 @@
-# proj
+# 
  
   ## Description
-  desc
+  
 
   ## Table of Contents
     * [Installation](#installation)
-    * [Usage]
-    * [License]
-    * [Questions]
+    * [Usage](#usage)
+    * [License](#license)
+    * [Questions](#questions)
 
   ## Installation
-  clone repo
+  
 
   ## Usage
 
@@ -22,6 +22,6 @@
   ## Tests
 
   ## Questions
-  If you have any questions about this project you can refer to my GitHub profile: [GitHub](mcc)
-  OR you may email me at adf
+  If you have any questions about this project you can refer to my GitHub profile: [GitHub](github.com/mcclellan-micah)
+  OR you may email me at 
   
