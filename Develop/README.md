@@ -1,16 +1,16 @@
-# 
+# develop
  
   ## Description
-  
+  deciption
 
   ## Table of Contents
-    * [Installation](#installation)
+    * [Installation](##installation)
     * [Usage](#usage)
     * [License](#license)
     * [Questions](#questions)
 
   ## Installation
-  
+  instal
 
   ## Usage
 
@@ -22,6 +22,6 @@
   ## Tests
 
   ## Questions
-  If you have any questions about this project you can refer to my GitHub profile: [GitHub](github.com/mcclellan-micah)
-  OR you may email me at 
+  If you have any questions about this project you can refer to my GitHub profile: [GitHub](github.com/user)
+  OR you may email me at email
   
