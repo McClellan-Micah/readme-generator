@@ -1,16 +1,18 @@
-# develop
+
+  
+  # Readme Generator
  
   ## Description
-  deciption
+  This project prompts the user with quesitons in order to create a professional READme file
 
   ## Table of Contents
-    * [Installation](##installation)
+    * [Installation](#installation)
     * [Usage](#usage)
     * [License](#license)
     * [Questions](#questions)
 
   ## Installation
-  instal
+  Clone the repo to your local machine
 
   ## Usage
 
@@ -22,6 +24,6 @@
   ## Tests
 
   ## Questions
-  If you have any questions about this project you can refer to my GitHub profile: [GitHub](github.com/user)
-  OR you may email me at email
+  If you have any questions about this project you can refer to my GitHub profile: [GitHub](https://github.com/mcclellan-micah)
+  OR you may email me at [mcclellan.micah.6@gmail.com](mcclellan.micah.6@gmail.com)
   
