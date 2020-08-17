@@ -1,6 +1,6 @@
-# Professional README Generator Starter Code
+# Professional README Generator
 
-[How to create a Professional README](./readme-guide.md)
+## Description
 
 GIVEN a command-line application that accepts user input
 
@@ -24,3 +24,25 @@ THEN this is added to the section of the README entitled Questions, with instruc
 
 WHEN I click on the links in the Table of Contents
 THEN I am taken to the corresponding section of the README
+
+## Table of Contents
+
+- [Installation](#installation)
+- [Usage](#usage)
+- [License](#license)
+- [Questions](#questions)
+
+## Installation
+
+Clone the repo to your local machine. Open the application in your terminal and type 'node index' to create your ReadME file.
+
+## Usage
+
+## License
+
+None
+
+## Questions
+
+If you have any questions about this project you can refer to my GitHub profile: [mcclellan-micah](https://github.com/mcclellan-micah)
+OR you may email me at mcclellan.micah.6@gmail.com
