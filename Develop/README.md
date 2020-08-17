@@ -1,50 +1,51 @@
-# Professional README Generator
 
-## Description
+  
+  # README Generator
 
-GIVEN a command-line application that accepts user input
+  
+    ![GitHub license](https://img.shields.io/badge/license-APACHE 2.0-blue.svg)
+    ,
+    ![GitHub license](https://img.shields.io/badge/license-BSD 3-blue.svg)
+    
+ 
+  ## Description
+  This project prompts the user with questions in order to generate a professional README file for their project(s)
 
-WHEN I am prompted for information about my application repository
-THEN a high-quality, professional README.md is generated with the title of my project and sections entitled Description, Table of Contents, Installation, Usage, License, Contributing, Tests, and Questions
+  ## Table of Contents
+  * [Installation](#installation)
+  * [Usage](#usage)
+  * [License](#license)
+  * [Questions](#questions)
 
-WHEN I enter my project titl
-THEN this is displayed as the title of the README
+  ## Installation
+  Clone this repository to their local machine, open in integrated terminal, and type in the command "Node Index.js"
 
-WHEN I enter a description, installation instructions, usage information, contribution guidelines, and test instructions
-THEN this information is added to the sections of the README entitled Description, Installation, Usage, Contributing, and Tests
+  ## Usage
 
-WHEN I choose a license for my application from a list of options
-THEN a badge for that license is added near the top of the README and a notice is added to the section of the README entitled License that explains which license the application is covered under
+  ## License
+  
+      #### APACHE 2.0
 
-WHEN I enter my GitHub username
-THEN this is added to the section of the README entitled Questions, with a link to my GitHub profile
+      Copyright 2020 mcclellan-micah
 
-WHEN I enter my email address
-THEN this is added to the section of the README entitled Questions, with instructions on how to reach me with additional questions
+      Licensed under the Apache License, Version 2.0 (the "License");
+      you may not use this file except in compliance with the License.
+      You may obtain a copy of the License at
 
-WHEN I click on the links in the Table of Contents
-THEN I am taken to the corresponding section of the README
+      http://www.apache.org/licenses/LICENSE-2.0
 
-## Table of Contents
+      Unless required by applicable law or agreed to in writing, software
+      distributed under the License is distributed on an "AS IS" BASIS,
+      WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+      See the License for the specific language governing permissions and
+      limitations under the License.
+      
 
-- [Installation](#installation)
-- [Usage](#usage)
-- [License](#license)
-- [Questions](#questions)
+  ## Contributing
 
-## Installation
+  ## Tests
 
-## Usage
-
-## License
-
-None
-
-## Contributing
-
-## Tests
-
-## Questions
-
-If you have any questions about this project you can refer to my GitHub profile: [mcclellan-micah](https://github.com/mcclellan-micah)
-OR you may email me at mcclellan.micah.6@gmail.com
+  ## Questions
+  If you have any questions about this project you can refer to my GitHub profile: [mcclellan-micah](https://github.com/mcclellan-micah)
+  OR you may email me at mcclellan.micah.6@gmail.com
+  

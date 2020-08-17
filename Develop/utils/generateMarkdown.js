@@ -19,7 +19,7 @@ function generateLicense(licenseName, github) {
   licenseInfo = [];
   licenseName.map((license) => {
     if (license === "MIT") {
-      license.Info.push(`
+      licenseInfo.push(`
       #### MIT License
 
       Copyright (c) 2020 ${github}
