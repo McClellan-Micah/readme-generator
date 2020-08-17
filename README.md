@@ -34,7 +34,7 @@ THEN I am taken to the corresponding section of the README
 
 ## Installation
 
-Clone the repo to your local machine. Open the application in your terminal and type 'node index' to create your ReadME file.
+Clone the repo to your local machine. Open the application in your terminal and type 'node index' to create your ReadME file. A link to a walkthrough video is hereby included: [Walkthrough-Video](https://drive.google.com/file/d/1BVO9nRl27dJU9OHX3lGejS_XjXdTNDNX/view)
 
 ## Usage
 
